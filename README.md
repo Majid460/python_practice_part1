@@ -1,7 +1,7 @@
 This repository includes the basic python concepts.
 
 1. Variables
-   1.1. Variables initialization
+   1.1. Variables initialization /n
    1.2. Variables naming convention
    1.3. Variables printing
    1.4. Variables data types
