@@ -52,7 +52,7 @@
     2.4.5. Convert `str` to `float`  
     2.4.6. Convert `int` to `float`
 
-### 3.Operators
+### 3. Operators
 #### 3.1. Assignment Operators
             3.1.1. = Equal to
             3.1.2. += Add and Assign
