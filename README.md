@@ -35,3 +35,19 @@
     2.2.14. Advanced Checks: isdecimal() vs isdigit(), isidentifier(), isprintable()  
     2.2.15. Join and Strip usage  
     2.2.16. Character Replacement using translate() and maketrans()  
+ ### 2.3. Booleans
+    2.3.1. What are Booleans  
+    2.3.2. Boolean Expressions (`==`, `>`, `<`) 
+    2.3.3. `if` Condition with Boolean Result  
+    2.3.4. `bool()` Function Overview  
+    2.3.5. Values that Return `True`
+    2.3.6. Values that Return `False`  
+    2.3.7. Class Example Returning False via `__len__`
+ ### 2.4. Type Casting
+
+    2.4.1. What is Type Casting?  
+    2.4.2. Using `int()`, `float()`, and `str()`  
+    2.4.3. Convert `int` to `str`  
+    2.4.4. Convert `float` to `int`  
+    2.4.5. Convert `str` to `float`  
+    2.4.6. Convert `int` to `float`
