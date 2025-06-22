@@ -78,6 +78,6 @@
             3.3.1. 'is' Identity Equals
             3.3.2. 'is not' Identity Not Equals
 
-#### 3.4. Membership Operators
+##### 3.4. Membership Operators 
             3.4.1. 'in' Check if present in sequence
             3.4.2. 'not in' Check if not present in sequence
