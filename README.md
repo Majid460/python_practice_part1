@@ -11,12 +11,13 @@ This repository includes the basic python concepts.
    1.6. Multiple named variables  
    1.7. Multiple Assignments of Variables  
    1.8. Re-assigning the variables  
-2. DataTypes
-   2.1.1. Numbers in Python
-      2.1.1.1. Types of Numbers
-      2.1.1.2. Basic Arithmetic Operations
-      2.1.1.3. Precedence of Operators
-      2.1.1.4. Armstrong Number Example
-      2.1.1.5. Armstrong Number with List Comprehension
-      2.1.1.6. Reverse a Number
+2. DataTypes  
+  2.1. Numbers  
+    2.1.1. Numbers in Python  
+    2.1.1. Types of Numbers  
+    2.1.1. Basic Arithmetic Operations  
+    2.1.1. Precedence of Operators  
+    2.1.1. Armstrong Number Example  
+    2.1.1. Armstrong Number with List Comprehension  
+    2.1.1. Reverse a Number
    
