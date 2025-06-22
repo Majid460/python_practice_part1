@@ -35,7 +35,7 @@
     2.2.14. Advanced Checks: isdecimal() vs isdigit(), isidentifier(), isprintable()  
     2.2.15. Join and Strip usage  
     2.2.16. Character Replacement using translate() and maketrans()  
- ### 2.3. Booleans
+ #### 2.3. Booleans
     2.3.1. What are Booleans  
     2.3.2. Boolean Expressions (`==`, `>`, `<`) 
     2.3.3. `if` Condition with Boolean Result  
@@ -43,7 +43,7 @@
     2.3.5. Values that Return `True`
     2.3.6. Values that Return `False`  
     2.3.7. Class Example Returning False via `__len__`
- ### 2.4. Type Casting
+ #### 2.4. Type Casting
 
     2.4.1. What is Type Casting?  
     2.4.2. Using `int()`, `float()`, and `str()`  
@@ -51,3 +51,33 @@
     2.4.4. Convert `float` to `int`  
     2.4.5. Convert `str` to `float`  
     2.4.6. Convert `int` to `float`
+
+### 3.Operators
+    #### 3.1. Assignment Operators
+            3.1.1. = Equal to
+            3.1.2. += Add and Assign
+            3.1.3. -= Subtract and Assign
+            3.1.4. *= Multiply and Assign
+            3.1.5. /= Divide and Assign
+            3.1.6. %= Modulus and Assign
+            3.1.7. //= Floor Divide and Assign
+            3.1.8. **= Power and Assign
+            3.1.9. &= Bitwise AND and Assign
+            3.1.10. |= Bitwise OR and Assign
+            3.1.11. ^= Bitwise XOR and Assign
+            3.1.12. >>= Right Shift and Assign
+            3.1.13. <<= Left Shift and Assign
+            3.1.14. := Walrus Operator
+
+    #### 3.2. Logical Operators
+            3.2.1. and Logical AND
+            3.2.2. or Logical OR
+            3.2.3. not Logical NOT
+
+    #### 3.3. Identity Operators
+            3.3.1. is Identity Equals
+            3.3.2. is not Identity Not Equals
+
+    #### 3.4. Membership Operators
+            3.4.1. in Check if present in sequence
+            3.4.2. not in Check if not present in sequence
