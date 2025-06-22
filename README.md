@@ -18,7 +18,7 @@
     2.1.1. Armstrong Number Example  
     2.1.1. Armstrong Number with List Comprehension  
     2.1.1. Reverse a Number  
- #### 2.2. Strings  
+ #### [2.2. Strings](https://github.com/Majid460/python_practice_part1/blob/main/src/datatypes/strings/strings.py)  
     2.2.1. What is a String  
     2.2.2. String Indexing and Slicing  
     2.2.3. String Reverse with Slice  
