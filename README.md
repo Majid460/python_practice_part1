@@ -53,7 +53,7 @@
     2.4.6. Convert `int` to `float`
 
 ### 3.Operators
-    #### 3.1. Assignment Operators
+    **3.1. Assignment Operators**
             3.1.1. = Equal to
             3.1.2. += Add and Assign
             3.1.3. -= Subtract and Assign
@@ -69,15 +69,15 @@
             3.1.13. <<= Left Shift and Assign
             3.1.14. := Walrus Operator
 
-    #### 3.2. Logical Operators
+    **3.2. Logical Operators**
             3.2.1. and Logical AND
             3.2.2. or Logical OR
             3.2.3. not Logical NOT
 
-    #### 3.3. Identity Operators
+    **3.3. Identity Operators**
             3.3.1. is Identity Equals
             3.3.2. is not Identity Not Equals
 
-    #### 3.4. Membership Operators
+    **3.4. Membership Operators**
             3.4.1. in Check if present in sequence
             3.4.2. not in Check if not present in sequence
