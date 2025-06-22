@@ -51,7 +51,7 @@
     2.4.5. Convert `str` to `float`  
     2.4.6. Convert `int` to `float`
 
-### [3. Operators] (https://github.com/Majid460/python_practice_part1/blob/main/src/operators/operators.py)
+### [3. Operators](https://github.com/Majid460/python_practice_part1/blob/main/src/operators/operators.py)
 #### [3.1. Assignment Operators](https://github.com/Majid460/python_practice_part1/blob/main/src/operators/operators.py)
             3.1.1. = Equal to
             3.1.2. += Add and Assign
