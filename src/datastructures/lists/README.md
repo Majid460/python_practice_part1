@@ -95,12 +95,12 @@ To add an item to the top of the stack, use append(). To retrieve an item from t
 Example:
 ```python
 _stack = [1,2,3,4]
-# append() add a element in the last of list
+# append() push an element in the last of stack
 _stack.append(5)
 print(_stack) 
 #[1,2,3,4,5]
 
-# Pop pops the last element of list
+# Pop removes the top element of stack
 _stack.pop()
 print(_stack)
 # [1,2,3,4]
