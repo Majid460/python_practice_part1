@@ -86,3 +86,47 @@ del a[:]              # delete entire list content
 - Shallow copy means the outer list is copied, but nested objects still refer to the original.
 
 ---
+### 2. Lists as Stacks
+#### LIFO or FILO (Last in First out || First in Last out)
+
+The list methods make it very easy to use a list as a stack, where the last element added is the first element retrieved (“last-in, first-out”). 
+To add an item to the top of the stack, use append(). To retrieve an item from the top of the stack, use pop() without an explicit index. 
+
+Example:
+```python
+_stack = [1,2,3,4]
+# append() add a element in the last of list
+_stack.append(5)
+print(_stack) 
+#[1,2,3,4,5]
+
+# Pop pops the last element of list
+_stack.pop()
+print(_stack)
+# [1,2,3,4]
+```
+---
+### 3. Lists as Queues
+
+#### FIFO or LILO (First out First out || Last in Last out)
+
+t is also possible to use a list as a queue, where the first element added is the first element retrieved (“first-in, first-out”); however, lists are not efficient for this purpose. While appends and pops from the end of list are fast, doing inserts or pops from the beginning of a list is slow (because all of the other elements have to be shifted by one).
+To implement a queue, use collections.deque which was designed to have fast appends and pops from both ends.
+
+Example:
+```python
+from collections import deque
+
+queue = deque([1,2,3,4])
+
+# add new element in the last of queue.
+queue.append(5)
+print(queue) 
+# [1,2,3,4,5]
+
+#Remove element from start of queue
+queue.popleft()
+print(queue)
+# [2,3,4,5]
+```
+---
