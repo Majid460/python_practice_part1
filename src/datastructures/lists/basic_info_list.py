@@ -4,7 +4,6 @@ To check the detail about list please refer to README.md in the same list folder
 """
 import copy
 from collections import deque
-from lib2to3.pgen2.token import NEWLINE
 
 # Create an empty list
 empty_list = []
@@ -170,3 +169,4 @@ print(f"Queue after enqueue 4 => {_queue}")
 _queue.popleft()
 print(f"Queue after dequeue 1 => {_queue}")
 # Queue after dequeue 4 => deque([2, 3, 4])
+
