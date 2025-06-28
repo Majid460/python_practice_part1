@@ -2,6 +2,7 @@
 """
 To create a list from a other collections we can use list()
 """
+
 print("\n----------- Some List Operations-------------\n")
 from_tuple_to_list = list(("a","b","c"))
 
@@ -247,3 +248,4 @@ for row_index, row in enumerate(matrix):
     for item in row:
         print(f"{item:<7}", end="")  # left-aligned with fixed width
     print()
+
