@@ -12,12 +12,12 @@
 ### [2. DataTypes](https://github.com/Majid460/python_practice_part1/tree/main/src/datatypes)
 ####  [2.1. Numbers](https://github.com/Majid460/python_practice_part1/blob/main/src/datatypes/numbers_in_python/numbers.py)
     2.1.1. Numbers in Python  
-    2.1.1. Types of Numbers  
-    2.1.1. Basic Arithmetic Operations  
-    2.1.1. Precedence of Operators  
-    2.1.1. Armstrong Number Example  
-    2.1.1. Armstrong Number with List Comprehension  
-    2.1.1. Reverse a Number  
+    2.1.2. Types of Numbers  
+    2.1.3. Basic Arithmetic Operations  
+    2.1.4. Precedence of Operators  
+    2.1.5. Armstrong Number Example  
+    2.1.6. Armstrong Number with List Comprehension  
+    2.1.7. Reverse a Number  
  #### [2.2. Strings](https://github.com/Majid460/python_practice_part1/blob/main/src/datatypes/strings/strings.py)  
     2.2.1. What is a String  
     2.2.2. String Indexing and Slicing  
@@ -80,3 +80,48 @@
 ##### [3.4. Membership Operators](https://github.com/Majid460/python_practice_part1/blob/main/src/operators/operators.py)
             3.4.1. 'in' Check if present in sequence
             3.4.2. 'not in' Check if not present in sequence
+
+### [4. Data Structures](https://github.com/Majid460/python_practice_part1/tree/main/src/data_structures)
+
+#### [4.1. Lists](https://github.com/Majid460/python_practice_part1/blob/main/src/data_structures/lists/lists.py)
+    4.1.1. Converting Collections to Lists
+        4.1.1.1. From Tuple to List
+        4.1.1.2. From Set to List
+        4.1.1.3. From String to List
+    4.1.2. List Indexing and Slicing
+        4.1.2.1. Access Items
+        4.1.2.2. Negative Indexing
+        4.1.2.3. Range of Indexes
+        4.1.2.4. Range of Negative Indexes
+    4.1.3. Creating Lists with Loops
+        4.1.3.1. Traditional For Loop Method
+        4.1.3.2. User Input with Loop
+        4.1.3.3. User Input for Elements
+        4.1.3.4. List Comprehension (Modern Approach)
+    4.1.4. Iterating Through Lists
+        4.1.4.1. Using For Loop with Range
+        4.1.4.2. Using While Loop
+        4.1.4.3. Using List Comprehension for Printing
+    4.1.5. 2D Lists (Matrices)
+        4.1.5.1. Matrix Creation and Structure
+        4.1.5.2. Accessing Matrix Elements
+        4.1.5.3. Matrix Row and Column Access
+        4.1.5.4. Iterating Through All Matrix Elements
+        4.1.5.5. Formatted Matrix Output
+
+#### [4.2. Matrix Operations](https://github.com/Majid460/python_practice_part1/blob/main/src/data_structures/matrices/matrix_operations.py)
+    4.2.1. Count Element Occurrences
+        4.2.1.1. Dictionary-based Counting
+        4.2.1.2. List Comprehension Approach
+    4.2.2. Sum Calculations
+        4.2.2.1. Sum of All Elements
+        4.2.2.2. Sum of Elements in Each Row
+        4.2.2.3. Sum of Elements in Each Column
+    4.2.3. Element Analysis
+        4.2.3.1. Find Maximum and Minimum Elements
+        4.2.3.2. Count Even and Odd Numbers
+        4.2.3.3. Categorize Even/Odd Elements
+    4.2.4. Advanced Matrix Operations
+        4.2.4.1. Matrix Transpose (Nested Loops)
+        4.2.4.2. Matrix Transpose (List Comprehension)
+        4.2.4.3. Matrix Transformation Algorithms
