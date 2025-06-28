@@ -81,9 +81,9 @@
             3.4.1. 'in' Check if present in sequence
             3.4.2. 'not in' Check if not present in sequence
 
-### [4. Data Structures](https://github.com/Majid460/python_practice_part1/tree/main/src/data_structures)
+### [4. Data Structures](https://github.com/Majid460/python_practice_part1/tree/main/src/datastructures)
 
-#### [4.1. Lists](https://github.com/Majid460/python_practice_part1/blob/main/src/data_structures/lists/lists.py)
+#### [4.1. Lists](https://github.com/Majid460/python_practice_part1/tree/main/src/datastructures/lists)
     4.1.1. Converting Collections to Lists
         4.1.1.1. From Tuple to List
         4.1.1.2. From Set to List
@@ -109,7 +109,7 @@
         4.1.5.4. Iterating Through All Matrix Elements
         4.1.5.5. Formatted Matrix Output
 
-#### [4.2. Matrix Operations](https://github.com/Majid460/python_practice_part1/blob/main/src/data_structures/matrices/matrix_operations.py)
+#### [4.2. Matrix Operations](https://github.com/Majid460/python_practice_part1/tree/main/src/datastructures/lists/2d_list)
     4.2.1. Count Element Occurrences
         4.2.1.1. Dictionary-based Counting
         4.2.1.2. List Comprehension Approach
