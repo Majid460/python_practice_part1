@@ -379,7 +379,7 @@ for row in matrix:
 
 #### Formatted Matrix Output
 ```python
-# Create a nicely formatted matrix display
+# Create a nicely formatted 2d_list display
 print(" " * 8 + "Column0 Column1 Column2")
 
 for row_index, row in enumerate(matrix):

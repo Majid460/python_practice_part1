@@ -93,7 +93,7 @@ for row in matrix_two:
         else:
             count[element] += 1
 
-print("Occurrences of elements in matrix:")
+print("Occurrences of elements in 2d_list:")
 for key, val in count.items():
     print(f"{key} → {val}")
 ```
@@ -197,7 +197,7 @@ for col in range(cols):
         new_row.append(matrix_two[i][col])
     transpose_matrix.append(new_row)
 
-print("Transpose of matrix:")
+print("Transpose of 2d_list:")
 for row in transpose_matrix:
     print(row)
 ```
@@ -206,7 +206,7 @@ for row in transpose_matrix:
 # Solution 2: Using list comprehension
 transpose_matrix = [[matrix_two[i][j] for i in range(rows)] 
                    for j in range(len(matrix_two[0]))]
-print("Transpose of matrix:")
+print("Transpose of 2d_list:")
 for row in transpose_matrix:
     print(row)
 ```

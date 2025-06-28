@@ -171,7 +171,7 @@ A 2D list is a list of lists, often used to represent tables or matrices.
 2D List -> [Rows][Columns]
 2d_list = [[1,2],[3,4]]
 
-matrix = [
+2d_list = [
     [1, 2, 3],
     [4, 5, 6],
     [7, 8, 9]
@@ -190,18 +190,18 @@ matrix = [
     [4, 5, 6],
     [7, 8, 9]
 ]
-# Access the elements of matrix
-print(f"Access the elements of matrix at [0][0] => {matrix[0][0]}")
+# Access the elements of 2d_list
+print(f"Access the elements of 2d_list at [0][0] => {matrix[0][0]}")
 
 # Print first Row
-print(f"Access the elements of first Row of matrix => {matrix[0][:]}")
-# Access the elements of first Row of matrix => [1, 2, 3]
+print(f"Access the elements of first Row of 2d_list => {matrix[0][:]}")
+# Access the elements of first Row of 2d_list => [1, 2, 3]
 
 # Print first Column
 """
 Matrix will be like :
                Row 0         Row 1           Row 2
-matrix = [  [1, 2, 3],     [4, 5, 6],      [7, 8, 9]   ]
+2d_list = [  [1, 2, 3],     [4, 5, 6],      [7, 8, 9]   ]
 
 It looped on each row as it has 3 Rows so it like [1,2,3]
 1. It will pick the first row and its first element is 1 which is first element of column.
@@ -211,33 +211,33 @@ It looped on each row as it has 3 Rows so it like [1,2,3]
 So think like a 1D array to a 2D array.
 """
 for row in matrix:
-    print(f"Access the elements of first Column of matrix => {row[0]}")
+    print(f"Access the elements of first Column of 2d_list => {row[0]}")
 """
-Access the elements of first Column of matrix => 1
-Access the elements of first Column of matrix => 4
-Access the elements of first Column of matrix => 7
+Access the elements of first Column of 2d_list => 1
+Access the elements of first Column of 2d_list => 4
+Access the elements of first Column of 2d_list => 7
 """
 
-# Print all elements of matrix
+# Print all elements of 2d_list
 
 for row in matrix:
     for i in row:
-        print(f"Access the elements of matrix => {i}")
+        print(f"Access the elements of 2d_list => {i}")
 
 """
-Access the elements of matrix => 1
-Access the elements of matrix => 2
-Access the elements of matrix => 3
-Access the elements of matrix => 4
-Access the elements of matrix => 5
-Access the elements of matrix => 6
-Access the elements of matrix => 7
-Access the elements of matrix => 8
-Access the elements of matrix => 9
+Access the elements of 2d_list => 1
+Access the elements of 2d_list => 2
+Access the elements of 2d_list => 3
+Access the elements of 2d_list => 4
+Access the elements of 2d_list => 5
+Access the elements of 2d_list => 6
+Access the elements of 2d_list => 7
+Access the elements of 2d_list => 8
+Access the elements of 2d_list => 9
 """
 # Customize the output
 print(" " * 8 + "Column0 Column1 Column2")
-# for row in matrix:
+# for row in 2d_list:
 #     print(f"Row -> ",sep=" ", end="")
 #     for i in row:
 #         print(f"{i}",end=" ")
