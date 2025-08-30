@@ -125,3 +125,28 @@
         4.2.4.1. Matrix Transpose (Nested Loops)
         4.2.4.2. Matrix Transpose (List Comprehension)
         4.2.4.3. Matrix Transformation Algorithms
+
+#### [4.3. Dictionaries]()
+
+#### Quick Overview  
+    4.3.1. Dictionary Basics and Creation**
+        4.3.1.1. Empty Dictionary Creation
+        4.3.1.2. Dictionary with Elements
+        4.3.1.3. Constructor Method
+    4.3.2. Accessing Dictionary Elements**
+        4.3.2.1. Direct Key Access
+        4.3.2.2. Multiple Access Methods
+        4.3.2.3. Loop Iterations
+        4.3.2.4. Dictionary Comprehension
+    4.3.3. Dictionary Properties**
+        4.3.3.1. Ordering Behavior
+        4.3.3.2. Key-Value Relationships
+    4.3.4. Modifying Dictionaries**
+        4.3.4.1. Update Method
+        4.3.4.2. Element Removal (pop, popitem, del, clear)
+    4.3.5. Dictionary Copying**
+        4.3.5.1. Shallow vs Deep Copy
+        4.3.5.2. Copy Methods
+    4.3.6. Nested Dictionaries**
+        4.3.6.1. Structure and Access
+        4.3.6.2. Nested Iteration
