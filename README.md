@@ -177,3 +177,36 @@
     4.4.7. Tuple Methods
         4.4.7.1. count() Method
         4.4.7.2. index() Method
+
+#### [4.5. Sets](https://github.com/Majid460/python_practice_part1/blob/main/src/datastructures/sets/sets.py)
+    4.5.1. Set Basics and Creation
+        4.5.1.1. Basic Set Creation
+        4.5.1.2. Set Constructor Method
+        4.5.1.3. Mixed Data Types in Sets
+    4.5.2. Set Characteristics
+        4.5.2.1. No Duplicates Policy
+        4.5.2.2. Boolean/Numeric Duplicate Handling
+        4.5.2.3. Set Length and Properties
+    4.5.3. Accessing Set Elements
+        4.5.3.1. Iteration Methods
+        4.5.3.2. Membership Testing
+        4.5.3.3. No Index Access (Unordered)
+    4.5.4. Modifying Sets
+        4.5.4.1. Adding Single Items (add)
+        4.5.4.2. Adding Multiple Items (update)
+        4.5.4.3. Adding Any Iterable
+        4.5.5. Removing Set Elements
+        4.5.5.1. remove() Method (Error if Not Found)
+        4.5.5.2. discard() Method (Safe Removal)
+        4.5.5.3. pop() Method (Random Removal)
+        4.5.5.4. Deleting Entire Set
+    4.5.6. Set Operations (Mathematical)
+        4.5.6.1. Union (Combine All)
+        4.5.6.2. Intersection (Common Items)
+        4.5.6.3. Difference (Items in First Set Only)
+        4.5.6.4. Symmetric Difference (Items NOT in Both)   
+    4.5.7. Set Operators
+        4.5.7.1. Union Operator (|)
+        4.5.7.2. Intersection Operator (&)
+        4.5.7.3. Difference Operator (-)
+        4.5.7.4. Symmetric Difference Operator (^)
