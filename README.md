@@ -195,7 +195,7 @@
         4.5.4.1. Adding Single Items (add)
         4.5.4.2. Adding Multiple Items (update)
         4.5.4.3. Adding Any Iterable
-        4.5.5. Removing Set Elements
+    4.5.5. Removing Set Elements
         4.5.5.1. remove() Method (Error if Not Found)
         4.5.5.2. discard() Method (Safe Removal)
         4.5.5.3. pop() Method (Random Removal)
