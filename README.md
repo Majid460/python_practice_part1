@@ -127,8 +127,6 @@
         4.2.4.3. Matrix Transformation Algorithms
 
 #### [4.3. Dictionaries](https://github.com/Majid460/python_practice_part1/blob/main/src/datastructures/dict/dict.py)
-
-#### Quick Overview  
     4.3.1. Dictionary Basics and Creation
         4.3.1.1. Empty Dictionary Creation
         4.3.1.2. Dictionary with Elements
@@ -152,8 +150,6 @@
         4.3.6.2. Nested Iteration
 
 #### [4.4. Tuples](https://github.com/Majid460/python_practice_part1/blob/main/src/datastructures/tuples/tuples.py)
-
-#### Quick Overview
     4.4.1. Tuple Basics and Creation
         4.4.1.1. Basic Tuple Creation
         4.4.1.2. Mixed Data Types
