@@ -126,27 +126,58 @@
         4.2.4.2. Matrix Transpose (List Comprehension)
         4.2.4.3. Matrix Transformation Algorithms
 
-#### [4.3. Dictionaries]()
+#### [4.3. Dictionaries](https://github.com/Majid460/python_practice_part1/blob/main/src/datastructures/dict/dict.py)
 
 #### Quick Overview  
-    4.3.1. Dictionary Basics and Creation**
+    4.3.1. Dictionary Basics and Creation
         4.3.1.1. Empty Dictionary Creation
         4.3.1.2. Dictionary with Elements
         4.3.1.3. Constructor Method
-    4.3.2. Accessing Dictionary Elements**
+    4.3.2. Accessing Dictionary Elements
         4.3.2.1. Direct Key Access
         4.3.2.2. Multiple Access Methods
         4.3.2.3. Loop Iterations
         4.3.2.4. Dictionary Comprehension
-    4.3.3. Dictionary Properties**
+    4.3.3. Dictionary Properties
         4.3.3.1. Ordering Behavior
         4.3.3.2. Key-Value Relationships
-    4.3.4. Modifying Dictionaries**
+    4.3.4. Modifying Dictionaries
         4.3.4.1. Update Method
         4.3.4.2. Element Removal (pop, popitem, del, clear)
-    4.3.5. Dictionary Copying**
+    4.3.5. Dictionary Copying
         4.3.5.1. Shallow vs Deep Copy
         4.3.5.2. Copy Methods
-    4.3.6. Nested Dictionaries**
+    4.3.6. Nested Dictionaries
         4.3.6.1. Structure and Access
         4.3.6.2. Nested Iteration
+
+#### [4.4. Tuples](https://github.com/Majid460/python_practice_part1/blob/main/src/datastructures/tuples/tuples.py)
+
+#### Quick Overview
+    4.4.1. Tuple Basics and Creation
+        4.4.1.1. Basic Tuple Creation
+        4.4.1.2. Mixed Data Types
+        4.4.1.3. Tuple vs List Differences
+    4.4.2. Tuple Operations
+        4.4.2.1. Index Access (Positive/Negative)
+        4.4.2.2. Range Slicing
+        4.4.2.3. Membership Testing
+    4.4.3. Immutability and Workarounds
+        4.4.3.1. Converting to List for Modification
+        4.4.3.2. Adding Items (List Conversion)
+        4.4.3.3. Removing Items (List Conversion)
+        4.4.3.4. Deleting Entire Tuple
+        4.4.4. Tuple Unpacking**
+        4.4.4.1. Basic Unpacking
+    4.4.4.2. Asterisk (*) Unpacking
+        4.4.4.3. Advanced Asterisk Patterns
+    4.4.5. Looping Through Tuples
+        4.4.5.1. Index-Based For Loop
+        4.4.5.2. Simple For Loop
+        4.4.5.3. While Loop
+    4.4.6. Joining Tuples
+        4.4.6.1. Concatenation with + Operator
+        4.4.6.2. Multiplication with * Operator
+    4.4.7. Tuple Methods
+        4.4.7.1. count() Method
+        4.4.7.2. index() Method
