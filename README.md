@@ -163,9 +163,9 @@
         4.4.3.2. Adding Items (List Conversion)
         4.4.3.3. Removing Items (List Conversion)
         4.4.3.4. Deleting Entire Tuple
-        4.4.4. Tuple Unpacking**
+    4.4.4. Tuple Unpacking
         4.4.4.1. Basic Unpacking
-    4.4.4.2. Asterisk (*) Unpacking
+        4.4.4.2. Asterisk (*) Unpacking
         4.4.4.3. Advanced Asterisk Patterns
     4.4.5. Looping Through Tuples
         4.4.5.1. Index-Based For Loop
