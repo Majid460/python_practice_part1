@@ -235,7 +235,7 @@
         4.6.5.4. Guard Conditions (If in Case)
         4.6.5.5. Match vs If-Elif Comparison
 
-#### [4.7. Loops](https://github.com/Majid460/python_practice_part1/blob/main/src/loops)
+#### [4.7. Loops](https://github.com/Majid460/python_practice_part1/blob/main/src/loops.py)
     4.7.1. While Loops
         4.7.1.1. Basic While Loop Structure
         4.7.1.2. Variable Initialization and Increment
