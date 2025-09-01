@@ -1,6 +1,6 @@
 ## This repository includes the basic python concepts.  
 
-### [1. Variables](https://github.com/Majid460/python_practice_part1/blob/main/src/variables/variables.py)
+### [1. Variables](https://github.com/Majid460/python_practice_part1/blob/main/src/basic/variables/variables.py)
      1.1.1. Variables initialization  
      1.2.1. Variables naming convention  
      1.3.1. Variables printing  
@@ -9,7 +9,7 @@
      1.6.1. Multiple named variables  
      1.7.1. Multiple Assignments of Variables  
      1.8.1. Re-assigning the variables  
-### [2. DataTypes](https://github.com/Majid460/python_practice_part1/tree/main/src/datatypes)
+### [2. DataTypes](https://github.com/Majid460/python_practice_part1/tree/main/src/basic/datatypes)
 ####  [2.1. Numbers](https://github.com/Majid460/python_practice_part1/blob/main/src/datatypes/numbers_in_python/numbers.py)
     2.1.1. Numbers in Python  
     2.1.2. Types of Numbers  
@@ -18,7 +18,7 @@
     2.1.5. Armstrong Number Example  
     2.1.6. Armstrong Number with List Comprehension  
     2.1.7. Reverse a Number  
- #### [2.2. Strings](https://github.com/Majid460/python_practice_part1/blob/main/src/datatypes/strings/strings.py)  
+ #### [2.2. Strings](https://github.com/Majid460/python_practice_part1/blob/main/src/basic/datatypes/strings/strings.py)  
     2.2.1. What is a String  
     2.2.2. String Indexing and Slicing  
     2.2.3. String Reverse with Slice  
@@ -35,7 +35,7 @@
     2.2.14. Advanced Checks: isdecimal() vs isdigit(), isidentifier(), isprintable()  
     2.2.15. Join and Strip usage  
     2.2.16. Character Replacement using translate() and maketrans()  
- #### [2.3. Booleans](https://github.com/Majid460/python_practice_part1/blob/main/src/datatypes/boolean/boolean.py)
+ #### [2.3. Booleans](https://github.com/Majid460/python_practice_part1/blob/main/src/basic/datatypes/boolean/boolean.py)
     2.3.1. What are Booleans  
     2.3.2. Boolean Expressions (`==`, `>`, `<`) 
     2.3.3. `if` Condition with Boolean Result  
@@ -43,7 +43,7 @@
     2.3.5. Values that Return `True`
     2.3.6. Values that Return `False`  
     2.3.7. Class Example Returning False via `__len__`
- #### [2.4. Type Casting](https://github.com/Majid460/python_practice_part1/blob/main/src/datatypes/casting/casting.py)
+ #### [2.4. Type Casting](https://github.com/Majid460/python_practice_part1/blob/main/src/basic/datatypes/casting/casting.py)
     2.4.1. What is Type Casting?  
     2.4.2. Using `int()`, `float()`, and `str()`  
     2.4.3. Convert `int` to `str`  
@@ -51,8 +51,8 @@
     2.4.5. Convert `str` to `float`  
     2.4.6. Convert `int` to `float`
 
-### [3. Operators](https://github.com/Majid460/python_practice_part1/blob/main/src/operators/operators.py)
-#### [3.1. Assignment Operators](https://github.com/Majid460/python_practice_part1/blob/main/src/operators/operators.py)
+### [3. Operators](https://github.com/Majid460/python_practice_part1/blob/main/src/basic/operators/operators.py)
+#### [3.1. Assignment Operators](https://github.com/Majid460/python_practice_part1/blob/main/src/basic/operators/operators.py)
             3.1.1. = Equal to
             3.1.2. += Add and Assign
             3.1.3. -= Subtract and Assign
@@ -68,16 +68,16 @@
             3.1.13. <<= Left Shift and Assign
             3.1.14. := Walrus Operator
 
-##### [3.2. Logical Operators](https://github.com/Majid460/python_practice_part1/blob/main/src/operators/operators.py)
+##### [3.2. Logical Operators](https://github.com/Majid460/python_practice_part1/blob/main/src/basic/operators/operators.py)
             3.2.1. and Logical AND
             3.2.2. or Logical OR
             3.2.3. not Logical NOT
 
-##### [3.3. Identity Operators](https://github.com/Majid460/python_practice_part1/blob/main/src/operators/operators.py)
+##### [3.3. Identity Operators](https://github.com/Majid460/python_practice_part1/blob/main/src/basic/operators/operators.py)
             3.3.1. 'is' Identity Equals
             3.3.2. 'is not' Identity Not Equals
 
-##### [3.4. Membership Operators](https://github.com/Majid460/python_practice_part1/blob/main/src/operators/operators.py)
+##### [3.4. Membership Operators](https://github.com/Majid460/python_practice_part1/blob/main/src/basic/operators/operators.py)
             3.4.1. 'in' Check if present in sequence
             3.4.2. 'not in' Check if not present in sequence
 
@@ -210,3 +210,48 @@
         4.5.7.2. Intersection Operator (&)
         4.5.7.3. Difference Operator (-)
         4.5.7.4. Symmetric Difference Operator (^)
+#### [4.6. Conditional Statements](https://github.com/Majid460/python_practice_part1/blob/main/src/basic/conditional)
+    4.6.1. Python Logical Conditions
+        4.6.1.1. Comparison Operators (==, !=, <, <=, >, >=)
+        4.6.1.2. Basic If Statement
+        4.6.1.3. Indentation Requirements
+    4.6.2. If-Elif-Else Statements
+        4.6.2.1. If Statement
+        4.6.2.2. Elif (Else If) Statement
+        4.6.2.3. Else Statement
+        4.6.2.4. Short Hand If (One Line)
+    4.6.3. Logical Operators
+        4.6.3.1. And Operator (Multiple Conditions)
+        4.6.3.2. Or Operator (Alternative Conditions)
+        4.6.3.3. Not Operator (Reverse Logic)
+        4.6.3.4. Chained Comparisons
+    4.6.4. Special Statements
+        4.6.4.1. Pass Statement (Empty Blocks)
+        4.6.4.2. Nested Conditionals
+    4.6.5. Match Statement (Python 3.10+)   
+        4.6.5.1. Basic Match-Case Structure
+        4.6.5.2. Default Case (Wildcard *)
+        4.6.5.3. Multiple Value Matching (|)
+        4.6.5.4. Guard Conditions (If in Case)
+        4.6.5.5. Match vs If-Elif Comparison
+
+#### [4.7. Loops](https://github.com/Majid460/python_practice_part1/blob/main/src/loops)
+    4.7.1. While Loops
+        4.7.1.1. Basic While Loop Structure
+        4.7.1.2. Variable Initialization and Increment
+        4.7.1.3. Infinite Loop Prevention
+    4.7.2. While Loop Control Statements
+        4.7.2.1. Break Statement
+        4.7.2.2. Continue Statement
+        4.7.2.3. Else Statement with While
+    4.7.3. For Loops
+        4.7.3.1. Basic For Loop Structure
+        4.7.3.2. Iterating Over Sequences
+        4.7.3.3. String Iteration
+    4.7.4. Advanced For Loop Techniques
+        4.7.4.1. Enumerate Function
+        4.7.4.2. Word and Character Processing
+        4.7.4.3. Finding Elements and Positions
+    4.7.5. Nested Loops
+        4.7.5.1. Basic Nested Loop Structure
+        4.7.5.2. Matrix and 2D Data Processing
