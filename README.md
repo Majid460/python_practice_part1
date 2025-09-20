@@ -210,6 +210,7 @@
         4.5.7.2. Intersection Operator (&)
         4.5.7.3. Difference Operator (-)
         4.5.7.4. Symmetric Difference Operator (^)
+
 #### [4.6. Conditional Statements](https://github.com/Majid460/python_practice_part1/blob/main/src/basic/conditional)
     4.6.1. Python Logical Conditions
         4.6.1.1. Comparison Operators (==, !=, <, <=, >, >=)
