@@ -8,7 +8,6 @@ __iter__() → returns the iterator object itself.
 __next__() → returns the next element. Raises StopIteration when no more items.
 
 """
-from src.datastructures.lists.basic_info_list import index
 
 a = "SBS"
 it = iter(a)
